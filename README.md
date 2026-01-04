@@ -40,25 +40,7 @@ Sempre fui apaixonado por tecnologia e hoje tenho a oportunidade de me desenvolv
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
-<img 
-    img 
-    align="left" 
-    alt="DART"
-    title="DART"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
-/>
 
-<img 
-    img 
-    align="left" 
-    alt="FLUTTER"
-    title="FLUTTER"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
-/>
           
           
           
